@@ -17,5 +17,5 @@ npm i
 3. Run the application
 
 ```
-npm run dev
+node rps.js rock paper scissors
 ```
